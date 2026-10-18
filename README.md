@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/banner.png" alt="The Wave Family: BigWave Radio, ChipWave Tracker and StreamWave. Free, open-source audio apps, built with the community." width="100%">
+  <img src="assets/banner.gif" alt="The Wave Family: BigWave Radio, ChipWave Tracker and StreamWave. Free, open-source audio apps, built with the community." width="100%">
 </p>
 
 ## 👋 Hi, I'm Derek
