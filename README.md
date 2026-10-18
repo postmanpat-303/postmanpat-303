@@ -4,7 +4,7 @@
 
 ## 👋 Hi, I'm Derek
 
-I'm Derek Heasley (aka **postmanpat**). I build free, open-source audio apps in **Rust**, with a lot of help from AI agents. Together they're the **Wave family**: a radio player, a music tracker and a recorder for streamers. All three are free. They get better every time someone tries them and tells me what they think, so come and say hello!
+I'm Derek Heasley (aka **postmanpat**). I build free, open-source audio apps in **Rust**, with a lot of help from AI agents. Together they're the **Wave family**: a radio player, a music tracker, a recorder for streamers and Wave Hub, a launcher that installs and updates the other three. All four are free. They get better every time someone tries them and tells me what they think, so come and say hello!
 
 ---
 
@@ -16,8 +16,8 @@ I'm Derek Heasley (aka **postmanpat**). I build free, open-source audio apps in 
     <td valign="top">
       <h3><a href="https://github.com/postmanpat-303/WaveHub">🐘 Wave Hub</a></h3>
       A free launcher that installs, updates and opens all the Wave apps in one click, with checked downloads, Update all and light and dark themes.<br>
-      <b>Platforms:</b> Windows · Linux  &nbsp;|&nbsp; Rust + egui · MIT<br>
-      <a href="https://github.com/postmanpat-303/WaveHub/releases/tag/v0.1.0"><b>⬇ Download v0.1.0 (pre-release)</b></a>
+      <b>Platforms:</b> Windows (setup or portable zip) · Linux (deb, rpm, Arch, AppImage)  &nbsp;|&nbsp; Rust + egui · MIT<br>
+      <a href="https://github.com/postmanpat-303/WaveHub/releases/latest"><b>⬇ Download the latest release</b></a>
     </td>
   </tr>
   <tr>
@@ -60,6 +60,7 @@ I'm Derek Heasley (aka **postmanpat**). I build free, open-source audio apps in 
 | 🐺 **BigWave Radio** | [Discussions](https://github.com/postmanpat-303/BigWaveRadio/discussions) | [Report a problem](https://github.com/postmanpat-303/BigWaveRadio/issues/new?template=bug_report.yml) · [It works on my system ✅](https://github.com/postmanpat-303/BigWaveRadio/issues/new?template=works_for_me.yml) |
 | 🦗 **ChipWave Tracker** | [Discussions](https://github.com/postmanpat-303/ChipWaveTracker/discussions) | [Open an issue](https://github.com/postmanpat-303/ChipWaveTracker/issues/new) |
 | 🐋 **StreamWave** | [Discussions](https://github.com/postmanpat-303/StreamWave/discussions) | [Open an issue](https://github.com/postmanpat-303/StreamWave/issues/new) |
+| 🐘 **Wave Hub** | [Discussions](https://github.com/postmanpat-303/WaveHub/discussions) | [Open an issue](https://github.com/postmanpat-303/WaveHub/issues/new) |
 
 > [!TIP]
 > **Tried BigWave Radio on a Mac or Linux?** Those builds are brand new and have only been tested on build servers so far. A quick [it works on my system](https://github.com/postmanpat-303/BigWaveRadio/issues/new?template=works_for_me.yml) or [problem report](https://github.com/postmanpat-303/BigWaveRadio/issues/new?template=bug_report.yml) is the most useful thing you can do for the project. Thank you!
