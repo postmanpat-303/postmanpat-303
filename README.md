@@ -16,8 +16,8 @@ I'm Derek Heasley (aka **postmanpat**). I build free, open-source audio apps in 
     <td valign="top">
       <h3><a href="https://github.com/postmanpat-303/WaveHub">🐘 Wave Hub</a></h3>
       A free launcher that installs, updates and opens all the Wave apps in one click, with checked downloads, Update all and light and dark themes.<br>
-      <b>Platforms:</b> Windows (setup or portable zip) · Linux (deb, rpm, Arch, AppImage)  &nbsp;|&nbsp; Rust + egui · MIT<br>
-      <a href="https://github.com/postmanpat-303/WaveHub/releases/latest"><b>⬇ Download the latest release</b></a>
+      <b>Platforms:</b> Windows (setup or portable zip) · Linux (deb, rpm, Arch, AppImage) · Mac (dmg)  &nbsp;|&nbsp; Rust + egui · MIT<br>
+      <a href="https://github.com/postmanpat-303/WaveHub/releases/latest"><b>⬇ Download the latest release</b></a> · <a href="https://postmanpat-303.github.io/WaveHub/"><b>🌐 Website</b></a>
     </td>
   </tr>
   <tr>
