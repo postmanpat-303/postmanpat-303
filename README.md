@@ -74,9 +74,15 @@ I'm Derek Heasley (aka **postmanpat**). I build free, open-source audio apps in 
 
 ## 🎬 Watch the promos
 
-- 🐺 [BigWave Radio: the wolf finds his pack](https://youtu.be/IxJTYOrA_0c)
-- 🐋 [StreamWave: the whale and her calf](https://youtu.be/ZGsCz0rjXeg)
-- 📺 More on the channel: [youtube.com/@whatgoesaround1551](https://www.youtube.com/@whatgoesaround1551)
+<table>
+<tr>
+<td align="center" width="33%"><a href="https://youtu.be/IxJTYOrA_0c"><img src="https://img.youtube.com/vi/IxJTYOrA_0c/hqdefault.jpg" alt="BigWave Radio promo"></a><br>🐺 <b>BigWave Radio</b><br>The wolf finds his pack<br><a href="https://youtube.com/shorts/i0QvJA0dhGk">▶ Short</a></td>
+<td align="center" width="33%"><a href="https://youtu.be/6VWhFZxexIc"><img src="https://img.youtube.com/vi/6VWhFZxexIc/hqdefault.jpg" alt="ChipWave Tracker promo"></a><br>🦗 <b>ChipWave Tracker</b><br>The cicada's summer song<br><a href="https://youtube.com/shorts/oAUfktjV1sg">▶ Short</a></td>
+<td align="center" width="33%"><a href="https://youtu.be/ZGsCz0rjXeg"><img src="https://img.youtube.com/vi/ZGsCz0rjXeg/hqdefault.jpg" alt="StreamWave promo"></a><br>🐋 <b>StreamWave</b><br>The whale and her calf<br><a href="https://youtube.com/shorts/N9Snk6MIkX0">▶ Short</a></td>
+</tr>
+</table>
+
+📺 More on the channel: [youtube.com/@whatgoesaround1551](https://www.youtube.com/@whatgoesaround1551)
 
 ---
 
