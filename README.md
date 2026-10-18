@@ -43,7 +43,7 @@ I'm Del (aka **postmanpat**). I build free, open-source audio apps in **Rust**, 
     <td valign="top">
       <h3><a href="https://github.com/postmanpat-303/StreamWave">🐋 StreamWave</a></h3>
       An audio recorder and editor for streamers and podcasters, with OBS sync, one-click Studio Sound and a rolling buffer so you never miss a take.<br>
-      <b>Platforms:</b> Windows · Linux (AppImage)  &nbsp;|&nbsp; Tauri + Rust · MIT<br>
+      <b>Platforms:</b> Windows · macOS (universal) · Linux (deb, rpm, Arch, AppImage)  &nbsp;|&nbsp; Tauri + Rust · MIT<br>
       <a href="https://github.com/postmanpat-303/StreamWave/releases/latest"><b>⬇ Download the latest release</b></a>
     </td>
   </tr>
