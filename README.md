@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/banner.gif" alt="The Wave Family: BigWave Radio, ChipWave Tracker and StreamWave. Free, open-source audio apps, built with the community." width="100%">
+  <img src="assets/banner.gif" alt="The Wave Family: BigWave Radio, ChipWave Studio and StreamWave. Free, open-source audio apps, built with the community." width="100%">
 </p>
 
 ## 👋 Hi, I'm Del
@@ -30,12 +30,12 @@ I'm Del (aka **postmanpat**). I build free, open-source audio apps in **Rust**, 
     </td>
   </tr>
   <tr>
-    <td width="96" align="center" valign="top"><a href="https://github.com/postmanpat-303/ChipWaveTracker"><img src="assets/chipwave_tracker_128.png" alt="ChipWave Tracker icon: a cicada on blue" width="80"></a></td>
+    <td width="96" align="center" valign="top"><a href="https://github.com/postmanpat-303/ChipWaveStudio"><img src="assets/chipwave_tracker_128.png" alt="ChipWave Studio icon: a cicada on blue" width="80"></a></td>
     <td valign="top">
-      <h3><a href="https://github.com/postmanpat-303/ChipWaveTracker">🦗 ChipWave Tracker</a></h3>
+      <h3><a href="https://github.com/postmanpat-303/ChipWaveStudio">🦗 ChipWave Studio</a></h3>
       An OctaMED-inspired music tracker with a built-in synth, a visual arranger, a mixer with sidechain ducking, MIDI input and WAV/MP3 export.<br>
       <b>Platforms:</b> Windows (installer or portable zip) · Linux (build from source)  &nbsp;|&nbsp; Rust + egui · GPL-3.0<br>
-      <a href="https://github.com/postmanpat-303/ChipWaveTracker/releases/latest"><b>⬇ Download the latest release</b></a>
+      <a href="https://github.com/postmanpat-303/ChipWaveStudio/releases/latest"><b>⬇ Download the latest release</b></a>
     </td>
   </tr>
   <tr>
@@ -58,7 +58,7 @@ I'm Del (aka **postmanpat**). I build free, open-source audio apps in **Rust**, 
 | | 💬 Ideas, questions & show-and-tell | 🐞 Feedback |
 | --- | --- | --- |
 | 🐺 **BigWave Radio** | [Discussions](https://github.com/postmanpat-303/BigWaveRadio/discussions) | [Report a problem](https://github.com/postmanpat-303/BigWaveRadio/issues/new?template=bug_report.yml) · [It works on my system ✅](https://github.com/postmanpat-303/BigWaveRadio/issues/new?template=works_for_me.yml) |
-| 🦗 **ChipWave Tracker** | [Discussions](https://github.com/postmanpat-303/ChipWaveTracker/discussions) | [Open an issue](https://github.com/postmanpat-303/ChipWaveTracker/issues/new) |
+| 🦗 **ChipWave Studio** | [Discussions](https://github.com/postmanpat-303/ChipWaveStudio/discussions) | [Open an issue](https://github.com/postmanpat-303/ChipWaveStudio/issues/new) |
 | 🐋 **StreamWave** | [Discussions](https://github.com/postmanpat-303/StreamWave/discussions) | [Open an issue](https://github.com/postmanpat-303/StreamWave/issues/new) |
 | 🐘 **Wave Hub** | [Discussions](https://github.com/postmanpat-303/WaveHub/discussions) | [Open an issue](https://github.com/postmanpat-303/WaveHub/issues/new) |
 
@@ -78,7 +78,7 @@ I'm Del (aka **postmanpat**). I build free, open-source audio apps in **Rust**, 
 <table>
 <tr>
 <td align="center" width="33%"><a href="https://youtu.be/IxJTYOrA_0c"><img src="https://img.youtube.com/vi/IxJTYOrA_0c/hqdefault.jpg" alt="BigWave Radio promo"></a><br>🐺 <b>BigWave Radio</b><br>The wolf finds his pack<br><a href="https://youtube.com/shorts/i0QvJA0dhGk">▶ Short</a></td>
-<td align="center" width="33%"><a href="https://youtu.be/6VWhFZxexIc"><img src="https://img.youtube.com/vi/6VWhFZxexIc/hqdefault.jpg" alt="ChipWave Tracker promo"></a><br>🦗 <b>ChipWave Tracker</b><br>The cicada's summer song<br><a href="https://youtube.com/shorts/oAUfktjV1sg">▶ Short</a></td>
+<td align="center" width="33%"><a href="https://youtu.be/6VWhFZxexIc"><img src="https://img.youtube.com/vi/6VWhFZxexIc/hqdefault.jpg" alt="ChipWave Studio promo"></a><br>🦗 <b>ChipWave Studio</b><br>The cicada's summer song<br><a href="https://youtube.com/shorts/oAUfktjV1sg">▶ Short</a></td>
 <td align="center" width="33%"><a href="https://youtu.be/ZGsCz0rjXeg"><img src="https://img.youtube.com/vi/ZGsCz0rjXeg/hqdefault.jpg" alt="StreamWave promo"></a><br>🐋 <b>StreamWave</b><br>The whale and her calf<br><a href="https://youtube.com/shorts/N9Snk6MIkX0">▶ Short</a></td>
 </tr>
 </table>
