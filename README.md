@@ -71,6 +71,10 @@ I'm Derek Heasley (aka **postmanpat**). I build free, open-source audio apps in 
 
 ---
 
+## 💛 Thank you
+
+A big thank you to [storytold](https://github.com/storytold/), whose open-source [PhotoCraft](https://github.com/storytold/photocraft) inspired the look of the Wave family icons, and whose [ArtCraft Launcher](https://github.com/storytold/craft-launcher) inspired the upcoming Wave Hub. Open source at its best. Go give them a ⭐!
+
 ## ☕ Support
 
 The Wave apps are free and always will be. If they make your day a little better, you can help keep them going:
