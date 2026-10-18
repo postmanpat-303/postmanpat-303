@@ -12,6 +12,15 @@ I'm Derek Heasley (aka **postmanpat**). I build free, open-source audio apps in 
 
 <table>
   <tr>
+    <td width="96" align="center" valign="top"><a href="https://github.com/postmanpat-303/WaveHub"><img src="assets/wavehub_128.png" alt="Wave Hub icon: a trumpeting elephant on pink" width="80"></a></td>
+    <td valign="top">
+      <h3><a href="https://github.com/postmanpat-303/WaveHub">🐘 Wave Hub</a></h3>
+      A free launcher that installs, updates and opens all the Wave apps in one click, with checked downloads, Update all and light and dark themes.<br>
+      <b>Platforms:</b> Windows · Linux  &nbsp;|&nbsp; Rust + egui · MIT<br>
+      <a href="https://github.com/postmanpat-303/WaveHub/releases/tag/v0.1.0"><b>⬇ Download v0.1.0 (pre-release)</b></a>
+    </td>
+  </tr>
+  <tr>
     <td width="96" align="center" valign="top"><a href="https://github.com/postmanpat-303/BigWaveRadio"><img src="assets/bigwave_radio_128.png" alt="BigWave Radio icon: a howling wolf on green" width="80"></a></td>
     <td valign="top">
       <h3><a href="https://github.com/postmanpat-303/BigWaveRadio">🐺 BigWave Radio</a></h3>
@@ -36,15 +45,6 @@ I'm Derek Heasley (aka **postmanpat**). I build free, open-source audio apps in 
       An audio recorder and editor for streamers and podcasters, with OBS sync, one-click Studio Sound and a rolling buffer so you never miss a take.<br>
       <b>Platforms:</b> Windows · Linux (AppImage)  &nbsp;|&nbsp; Tauri + Rust · MIT<br>
       <a href="https://github.com/postmanpat-303/StreamWave/releases/latest"><b>⬇ Download v0.6.0</b></a>
-    </td>
-  </tr>
-  <tr>
-    <td width="96" align="center" valign="top"><a href="https://github.com/postmanpat-303/WaveHub"><img src="assets/wavehub_128.png" alt="Wave Hub icon: a trumpeting elephant on pink" width="80"></a></td>
-    <td valign="top">
-      <h3><a href="https://github.com/postmanpat-303/WaveHub">🐘 Wave Hub</a></h3>
-      A free launcher that installs, updates and opens all the Wave apps in one click, with checked downloads, Update all and light and dark themes.<br>
-      <b>Platforms:</b> Windows · Linux  &nbsp;|&nbsp; Rust + egui · MIT<br>
-      <a href="https://github.com/postmanpat-303/WaveHub/releases/tag/v0.1.0"><b>⬇ Download v0.1.0 (pre-release)</b></a>
     </td>
   </tr>
 </table>
