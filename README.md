@@ -2,9 +2,9 @@
   <img src="assets/banner.gif" alt="The Wave Family: BigWave Radio, ChipWave Tracker and StreamWave. Free, open-source audio apps, built with the community." width="100%">
 </p>
 
-## 👋 Hi, I'm Derek
+## 👋 Hi, I'm Del
 
-I'm Derek Heasley (aka **postmanpat**). I build free, open-source audio apps in **Rust**, with a lot of help from AI agents. Together they're the **Wave family**: a radio player, a music tracker, a recorder for streamers and Wave Hub, a launcher that installs and updates the other three. All four are free. They get better every time someone tries them and tells me what they think, so come and say hello!
+I'm Del (aka **postmanpat**). I build free, open-source audio apps in **Rust**, with a lot of help from AI agents. Together they're the **Wave family**: a radio player, a music tracker, a recorder for streamers and Wave Hub, a launcher that installs and updates the other three. All four are free. They get better every time someone tries them and tells me what they think, so come and say hello!
 
 ---
 
