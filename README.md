@@ -38,6 +38,15 @@ I'm Derek Heasley (aka **postmanpat**). I build free, open-source audio apps in 
       <a href="https://github.com/postmanpat-303/StreamWave/releases/latest"><b>⬇ Download v0.6.0</b></a>
     </td>
   </tr>
+  <tr>
+    <td width="96" align="center" valign="top"><a href="https://github.com/postmanpat-303/WaveHub"><img src="assets/wavehub_128.png" alt="Wave Hub icon: a trumpeting elephant on pink" width="80"></a></td>
+    <td valign="top">
+      <h3><a href="https://github.com/postmanpat-303/WaveHub">🐘 Wave Hub</a></h3>
+      A free launcher that installs, updates and opens all the Wave apps in one click, with checked downloads, Update all and light and dark themes.<br>
+      <b>Platforms:</b> Windows · Linux  &nbsp;|&nbsp; Rust + egui · MIT<br>
+      <a href="https://github.com/postmanpat-303/WaveHub/releases/tag/v0.1.0"><b>⬇ Download v0.1.0 (pre-release)</b></a>
+    </td>
+  </tr>
 </table>
 
 ---
@@ -73,7 +82,7 @@ I'm Derek Heasley (aka **postmanpat**). I build free, open-source audio apps in 
 
 ## 💛 Thank you
 
-A big thank you to [storytold](https://github.com/storytold/), whose open-source [PhotoCraft](https://github.com/storytold/photocraft) inspired the look of the Wave family icons, and whose [ArtCraft Launcher](https://github.com/storytold/craft-launcher) inspired the upcoming Wave Hub. Open source at its best. Go give them a ⭐!
+A big thank you to [storytold](https://github.com/storytold/), whose open-source [PhotoCraft](https://github.com/storytold/photocraft) inspired the look of the Wave family icons, and whose [ArtCraft Launcher](https://github.com/storytold/craft-launcher) inspired [Wave Hub](https://github.com/postmanpat-303/WaveHub). Open source at its best. Go give them a ⭐!
 
 ## ☕ Support
 
