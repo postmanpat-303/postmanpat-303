@@ -26,7 +26,7 @@ I'm Derek Heasley (aka **postmanpat**). I build free, open-source audio apps in 
       <h3><a href="https://github.com/postmanpat-303/BigWaveRadio">🐺 BigWave Radio</a></h3>
       A free internet radio player that streams thousands of stations from <a href="https://www.radio-browser.info">radio-browser.info</a>, with mood chips, Rhai plugins and a MilkDrop-style visualiser.<br>
       <b>Platforms:</b> Windows · macOS (universal) · Linux (deb, rpm, Arch, AppImage)  &nbsp;|&nbsp; Rust + egui · MIT<br>
-      <a href="https://github.com/postmanpat-303/BigWaveRadio/releases/latest"><b>⬇ Download v0.9.6</b></a>
+      <a href="https://github.com/postmanpat-303/BigWaveRadio/releases/latest"><b>⬇ Download the latest release</b></a>
     </td>
   </tr>
   <tr>
@@ -35,7 +35,7 @@ I'm Derek Heasley (aka **postmanpat**). I build free, open-source audio apps in 
       <h3><a href="https://github.com/postmanpat-303/ChipWaveTracker">🦗 ChipWave Tracker</a></h3>
       An OctaMED-inspired music tracker with a built-in synth, a visual arranger, a mixer with sidechain ducking, MIDI input and WAV/MP3 export.<br>
       <b>Platforms:</b> Windows (installer or portable zip) · Linux (build from source)  &nbsp;|&nbsp; Rust + egui · GPL-3.0<br>
-      <a href="https://github.com/postmanpat-303/ChipWaveTracker/releases/latest"><b>⬇ Download v0.2.3.5</b></a>
+      <a href="https://github.com/postmanpat-303/ChipWaveTracker/releases/latest"><b>⬇ Download the latest release</b></a>
     </td>
   </tr>
   <tr>
@@ -44,7 +44,7 @@ I'm Derek Heasley (aka **postmanpat**). I build free, open-source audio apps in 
       <h3><a href="https://github.com/postmanpat-303/StreamWave">🐋 StreamWave</a></h3>
       An audio recorder and editor for streamers and podcasters, with OBS sync, one-click Studio Sound and a rolling buffer so you never miss a take.<br>
       <b>Platforms:</b> Windows · Linux (AppImage)  &nbsp;|&nbsp; Tauri + Rust · MIT<br>
-      <a href="https://github.com/postmanpat-303/StreamWave/releases/latest"><b>⬇ Download v0.6.0</b></a>
+      <a href="https://github.com/postmanpat-303/StreamWave/releases/latest"><b>⬇ Download the latest release</b></a>
     </td>
   </tr>
 </table>
