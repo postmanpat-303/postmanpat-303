@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/banner-notebook.png" alt="Del's workbench: Make. Listen. Print. Repeat. A scrapbook of audio apps, a 3D-printed sign, a cassette, calipers and a filament spool." width="100%">
+  <img src="assets/banner.gif" alt="The Wave Family: BigWave Radio, ChipWave Studio and StreamWave. Free, open-source audio apps, built with the community." width="100%">
 </p>
 
 ## 👋 Hi, I'm Del
