@@ -1,10 +1,10 @@
 <p align="center">
-  <img src="assets/banner.gif" alt="The Wave Family: BigWave Radio, ChipWave Studio and StreamWave. Free, open-source audio apps, built with the community." width="100%">
+  <img src="assets/banner-notebook.png" alt="Del's workbench: Make. Listen. Print. Repeat. A scrapbook of audio apps, a 3D-printed sign, a cassette, calipers and a filament spool." width="100%">
 </p>
 
 ## 👋 Hi, I'm Del
 
-I'm Del (aka **postmanpat**). I build free, open-source audio apps in **Rust**, with a lot of help from AI agents. Together they're the **Wave family**: a radio player, a music studio, a recorder for streamers and Wave Hub, a launcher that installs and updates the other three. All four are free. They get better every time someone tries them and tells me what they think, so come and say hello!
+A workbench full of audio apps, 3D-printed signs and hobby projects. I'm Del (aka **postmanpat**), and I build free, open-source audio software in **Rust**, with a lot of help from AI agents. Together they're the **Wave family**: a radio player, a music studio, a recorder for streamers and Wave Hub, a launcher that installs and updates the other three. All four are free. They get better every time someone tries them and tells me what they think, so come and say hello!
 
 > 🦗 **ChipWave Tracker is now ChipWave Studio.** It started out as a simple tracker, but it's grown into a much bigger music-making project, with a built-in synth, an arranger, a mixer and MIDI. "Tracker" no longer fits what it is today, so it has a new name to match. Same free app, same cicada, and your old links still work.
 
