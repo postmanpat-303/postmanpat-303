@@ -89,6 +89,14 @@ I'm Del (aka **postmanpat**). I build free, open-source audio apps in **Rust**, 
 
 ---
 
+## 🧪 Beyond the waves
+
+The Wave family keeps me busy, but I also like trying out smaller projects. The latest is **[Sign Maker for SolidCraft](https://github.com/postmanpat-303/SignMaker-for-SolidCraft)**, a free companion for [SolidCraft](https://github.com/tangency-labs/solidcraft) that turns a line of text, a font and two colours into a 3D-print sign. It has a live 3D preview, a one-object two-part 3MF export, and a Make button that steams for four seconds.
+
+[Website](https://postmanpat-303.github.io/SignMaker-for-SolidCraft/) · [Source](https://github.com/postmanpat-303/SignMaker-for-SolidCraft) · [Download the latest release](https://github.com/postmanpat-303/SignMaker-for-SolidCraft/releases/latest)
+
+---
+
 ## 💛 Thank you
 
 A big thank you to [storytold](https://github.com/storytold/), whose open-source [PhotoCraft](https://github.com/storytold/photocraft) inspired the look of the Wave family icons, and whose [ArtCraft Launcher](https://github.com/storytold/craft-launcher) inspired [Wave Hub](https://github.com/postmanpat-303/WaveHub). Open source at its best. Go give them a ⭐!
